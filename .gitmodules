@@ -13,3 +13,6 @@
 [submodule "tp"]
 	path = tp
 	url = git@github.com:lopesivan/tp.git
+[submodule "shellscript-tool-kit"]
+	path = shellscript-tool-kit
+	url = git@github.com:lopesivan/shellscript-tool-kit.git
