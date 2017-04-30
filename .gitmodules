@@ -4,3 +4,6 @@
 [submodule "imagemagick-scripts"]
 	path = imagemagick-scripts
 	url = git@github.com:lopesivan/imagemagick-scripts.git
+[submodule "bangsh"]
+	path = bangsh
+	url = git@github.com:lopesivan/bangsh.git
