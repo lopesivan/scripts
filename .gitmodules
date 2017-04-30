@@ -19,3 +19,6 @@
 [submodule "xp"]
 	path = xp
 	url = git@github.com:lopesivan/xp.git
+[submodule "code"]
+	path = code
+	url = git@github.com:lopesivan/code.git
