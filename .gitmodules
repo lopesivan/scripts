@@ -31,3 +31,6 @@
 [submodule "bashacks"]
 	path = bashacks
 	url = git@github.com:lopesivan/bashacks.git
+[submodule "chef-scripts"]
+	path = chef-scripts
+	url = git@github.com:lopesivan/chef-scripts.git
