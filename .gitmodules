@@ -7,3 +7,6 @@
 [submodule "bangsh"]
 	path = bangsh
 	url = git@github.com:lopesivan/bangsh.git
+[submodule "recipes"]
+	path = recipes
+	url = git@github.com:lopesivan/recipes.git
