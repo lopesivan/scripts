@@ -25,3 +25,6 @@
 [submodule "sed-scripts"]
 	path = sed-scripts
 	url = git@github.com:lopesivan/sed-scripts.git
+[submodule "bash-command-line"]
+	path = bash-command-line
+	url = git@github.com:lopesivan/bash-command-line.git
