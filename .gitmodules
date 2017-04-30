@@ -40,3 +40,6 @@
 [submodule "android-scripts"]
 	path = android-scripts
 	url = git@github.com:lopesivan/android-scripts.git
+[submodule "shellscript-tool-kit"]
+	path = shellscript-tool-kit
+	url = git@github.com:lopesivan/shellscript-tool-kit.git
