@@ -10,3 +10,6 @@
 [submodule "recipes"]
 	path = recipes
 	url = git@github.com:lopesivan/recipes.git
+[submodule "tp"]
+	path = tp
+	url = git@github.com:lopesivan/tp.git
