@@ -46,3 +46,6 @@
 [submodule "gimp-command-line"]
 	path = gimp-command-line
 	url = git@github.com:lopesivan/gimp-command-line.git
+[submodule "gegl"]
+	path = gegl
+	url = git@github.com:lopesivan/gegl.git
