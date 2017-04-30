@@ -43,3 +43,6 @@
 [submodule "shellscript-tool-kit"]
 	path = shellscript-tool-kit
 	url = git@github.com:lopesivan/shellscript-tool-kit.git
+[submodule "gimp-command-line"]
+	path = gimp-command-line
+	url = git@github.com:lopesivan/gimp-command-line.git
