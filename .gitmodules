@@ -22,3 +22,6 @@
 [submodule "code"]
 	path = code
 	url = git@github.com:lopesivan/code.git
+[submodule "sed-scripts"]
+	path = sed-scripts
+	url = git@github.com:lopesivan/sed-scripts.git
