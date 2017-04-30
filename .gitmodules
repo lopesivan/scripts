@@ -16,3 +16,6 @@
 [submodule "shellscript-tool-kit"]
 	path = shellscript-tool-kit
 	url = git@github.com:lopesivan/shellscript-tool-kit.git
+[submodule "xp"]
+	path = xp
+	url = git@github.com:lopesivan/xp.git
