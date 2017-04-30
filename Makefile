@@ -10,6 +10,7 @@ install:
 	make -C recipes install
 	make -C show-edit-ldoc
 	make -C shellscript-tool-kit
+	make -C tp
 
 clean:
 	sudo make -C code clean
@@ -21,3 +22,4 @@ clean:
 	make -C recipes clean
 	make -C show-edit-ldoc clean
 	make -C shellscript-tool-kit clean
+	make -C tp clean
