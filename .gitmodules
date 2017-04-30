@@ -34,3 +34,9 @@
 [submodule "chef-scripts"]
 	path = chef-scripts
 	url = git@github.com:lopesivan/chef-scripts.git
+[submodule "slides"]
+	path = slides
+	url = git@github.com:lopesivan/slides.git
+[submodule "show-edit-ldoc"]
+	path = show-edit-ldoc
+	url = git@github.com:lopesivan/show-edit-ldoc.git
