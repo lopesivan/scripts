@@ -1,3 +1,6 @@
 [submodule "git-scripts"]
 	path = git-scripts
 	url = git@github.com:lopesivan/git-scripts.git
+[submodule "imagemagick-scripts"]
+	path = imagemagick-scripts
+	url = git@github.com:lopesivan/imagemagick-scripts.git
