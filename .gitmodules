@@ -28,3 +28,6 @@
 [submodule "bash-command-line"]
 	path = bash-command-line
 	url = git@github.com:lopesivan/bash-command-line.git
+[submodule "bashacks"]
+	path = bashacks
+	url = git@github.com:lopesivan/bashacks.git
