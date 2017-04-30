@@ -40,3 +40,6 @@
 [submodule "show-edit-ldoc"]
 	path = show-edit-ldoc
 	url = git@github.com:lopesivan/show-edit-ldoc.git
+[submodule "android-scripts"]
+	path = android-scripts
+	url = git@github.com:lopesivan/android-scripts.git
